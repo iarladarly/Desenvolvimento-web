@@ -1,0 +1,20 @@
+/*Limpar formatação padrão*/
+* {
+	margin: 0;
+	padding: 0;
+}
+body{
+	font-size: 16px;
+	font-family: "Trebuchet Ms" Helvetica, sans-serif;
+	background: #f3f3f3;
+}
+#navegacao{
+	background: #fff;
+	border-bottom: 1px solid #d8d8d8;
+	height: 48px;
+}
+#area{
+	width: 720px;
+	margin: 0 auto;
+	border: 1px solid red;
+}
